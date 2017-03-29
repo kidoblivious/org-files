@@ -13,7 +13,7 @@
 *** Ecommerce
   Go professional or go home.
   eg  Magento(php).
-  Perhaps design as a show-site linking to ebay/etsy/amazon etc intially.
+  Perhaps design as a show-site linking to ebay/etsy/amazon sales etc intially.
   Also eg magento third party hosting.
 ** A variety of pieces
   Smartphone app?
