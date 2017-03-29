@@ -1,0 +1,29 @@
+* TODO Wifi
+  :PROPERTIES:
+  :ID:       25627032-c2c5-418e-92ed-42e02c452e3c
+  :END:
+** Needs to be a secured network, also I probably want to segregate it from the wider network
+  :PROPERTIES:
+  :ID:       fd98360e-e916-41ce-b8b6-6c28e93bdebe
+  :END:
+* Emacs
+** 2 .emacses, 1 on windows and 1 on gentoo...
+* Org mode
+  + More tags
+   Go in .emacs file
+  + Agenda
+   Add shit that occurs to me
+  + Babel - what can i use for automating stuffs even moar!!!
+* Elisp
+* Windows boxes
+   + Upgrade to Windows 7?!
+* Gaming box
+** Perhaps install Windows 7?
+   :PROPERTIES:
+   :ID:       53dffca8-6ea1-41e6-b556-ca42921f11f3
+   :END:
+* Bedroom box
+   :PROPERTIES:
+   :ID:       c1f95279-32a8-48d8-8a82-00dcef531f83
+   :END:
+* Android

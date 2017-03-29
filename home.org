@@ -1,0 +1,93 @@
+* House
+** TODO Flowers to keep Carla happier
+   DEADLINE: <2012-12-09 Sun +1w>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+   - State "DONE"       from "IN-PROGRESS" [2013-03-18 Mon 19:05]
+    - State "DONE"       from "WAITING"    [2012-11-11 Sun 17:23]
+   :PROPERTIES:
+   :ID:       22099d95-2f3d-4a95-8ad1-b12e020402be
+   :LAST_REPEAT: [2017-03-19 Sun 13:17]
+   :END:
+** Repaint internals of flat
+* Health
+** Exercise
+** Doctor
+*** TODO Record some peak flow times
+    DEADLINE: <2013-06-12 Wed +3m -1w>
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+    :PROPERTIES:
+    :ID:       9afa5489-a03e-4aaa-ba89-f458ca8a621a
+    :LAST_REPEAT: [2017-03-19 Sun 13:17]
+    :END:
+    
+*** Repeat Prescription?
+
+** Dentists
+    :PROPERTIES:
+    :ID:       ef7b1e16-7537-40cb-a739-d80c5e13cd6b
+    :END:
+* Bills
+** Internet
+   Monthly 40
+** Mobile
+   :PROVIDER: Vodafone
+   
+   Monthly 20-30
+** Energy 
+   Both electricity and gas.
+   :PROVIDER: eon
+   :ACCOUNT: 011547937350
+   :TELEPHONE: 03450520000
+   :ONLINE: http://www.eonenergy.com/paybill
+   Quarterly:
+   Quarter to 19 July 2012: £309
+   Quarter to 30 October 2012: £334
+
+** Council Tax
+   Annually about £1000
+** Water
+** TODO TV licence
+   145 pounds
+   DEADLINE: <2013-08-25 Wed +1m>
+* Car
+  :REGISTRATION: DE53 HVR
+** TODO Record dates of MOT and Tax
+   :PROPERTIES:
+   :ID:       53c8ec52-177c-4e35-a731-5c29fdea22ae
+   :END:
+
+** DONE Get Car cleaned!
+   DEADLINE: <2012-08-28 +2w>
+    :PROPERTIES:
+    :ID:       e75567c3-9f78-4d5a-b6b2-640344f8d3fb
+    :END:
+
+*** MOT
+*** Tax
+*** Insurance
+    34.30 taken on the 14th Jan
+*** Tyre pressures
+*** Last serviced?
+    
+* Fish
+** TODO Water Changes
+   DEADLINE: <2013-03-17 Sun ++2w>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+    :PROPERTIES:
+    :ID:       74c58653-ffb8-4a37-bd57-c68d734a8bd0
+    :LAST_REPEAT: [2017-03-19 Sun 13:17]
+    :END:
+    Big Tank
+
+** Pixie list 
+    + Mr Snuffleupagus
+    + Sharko
+      
+* WAITING New tank?!
+   :PROPERTIES:
+   :ID:       7c4b1625-f0d2-4d16-9f78-32e441c417c1
+   :END:  
+   
+   
+   

@@ -1,0 +1,68 @@
+* Javascript
+** NodeJS
+*** Gem Sales
+**** V1
+    + Get in touch with James
+      Review other Cut Gem websites:
+      spectralgems
+      rockhounds
+    + Showcase concepts
+    + Static Gallery
+      Rotation!!!
+    + Build data
+    + About page
+      James' workshop
+      Specialist techniques
+      Certification
+      Awards
+    + Contact us
+      Email form
+**** V2
+    + James to be able to add new gems.
+    + Lifecycle of individual gems
+      Rough
+      Cut
+      Concave cut
+      Sale details
+    + Commissions portfolio
+       
+**** V3
+     + Gem shop
+**** V4
+     + Gem House
+*** CCTV management
+*** Ingress
+*** Virtual rpg tabletop assistant
+    Underlying rationale:
+    Save time. 
+    Time is spent looking up and disseminating information by both players and GMs
+    Master copies of all data at GM, players get char sheets (and a way to look at them at home?) at least.
+    GM app would need templating to customise PC sheets per game type
+    
+    Keep it simple to start with!
+    + App for mobile phones
+    + Server app run by GM
+      Serve local website (or just JSON) to player browsers (or native app)
+      Data for player char sheets
+      Pushing and pulling roll requests and results from player devices
+      Log of rolls
+      Calibration/Testing of rolls: make a (eg) 1000 roll to confirm confidence in rolls.
+      (Many rolls provide a Normal or not distribution that can be analyzed)
+    + Generic initially
+    + Add customisability, per system, per system version?
+    + Map support
+
+** Espresso
+** AngularJS
+** ReactJS
+* Prolog
+
+* Gems
+  NON WEBSITE SALES.
+** Inventory.
+** Pics.
+** James
+* Find some spurous freelance references
+  + Roles that I'm not learning atm especially so I can credibly chat!
+
+

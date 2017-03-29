@@ -1,0 +1,12 @@
+#+READONLY
+#+TODO: WAITING TODO IN-PROGRESS DONE
+#+TODO:  | DONE
+#+TAGS: home carla research
+#+DRAWERS: PROPERTIES CLOCK LOGBOOK RESULTS
+#+ALLPRIORITIES: A B C
+* [[file:agendas.org][Agenda Views]]
+* [[file:computer.org][computer.org]]
+* [[file:gaming.org][gaming.org]]
+* [[file:home.org][home.org]]
+* [[file:presents.org][presents.org]]
+* [[file:work.org][work.org]]

@@ -1,0 +1,140 @@
+#+LAST_MOBILE_CHANGE: 2013-02-08 07:21:24
+* Birthdays 
+** TODO Ruth <1 Feb>
+   DEADLINE: <2016-02-01 Mon +1y -1m>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+   - State "DONE"       from "WAITING"    [2013-02-08 Fri 07:21]
+    :PROPERTIES:
+    :ID:       f49d7b6d-26f1-4820-81ae-844046069806
+   :LAST_REPEAT: [2017-03-19 Sun 13:17]
+    :END:
+    + Matt's birthday?
+*** TODO Matilda
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:16]
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+    Born 17 June 2008
+    DEADLINE: <2015-06-17 Wed +1y -1m>
+    :PROPERTIES:
+    :ID:       54ee0e3e-6ef0-4dd8-bca6-f86db51bf86b
+    :LAST_REPEAT: [2017-03-19 Sun 13:16]
+    :END:
+*** TODO Alex
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+    - State "DONE"       from "IN-PROGRESS" [2013-03-18 Mon 19:05]
+    Born 14 Jan 2005
+    DEADLINE: <2016-01-14 Thu +1y -1m>
+    :PROPERTIES:
+    :ID:       c94f8096-e9c0-4d56-a072-ef501ee22fe1
+    :LAST_REPEAT: [2017-03-19 Sun 13:17]
+    :END:
+
+** TODO Guy <15 April>
+   DEADLINE: <2015-04-15 Wed +1y -1m>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:16]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:08]
+   :PROPERTIES:
+   :ID:       f499e77d-5865-4511-86d2-994a28cd7111
+   :LAST_REPEAT: [2017-03-19 Sun 13:16]
+   :END:
+    + Kian
+
+*** TODO Leo
+    - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+    - State "DONE"       from "IN-PROGRESS" [2013-03-18 Mon 19:05]
+    Born 12 March 2007
+    DEADLINE: <2016-03-12 Sat +1y -1m>
+    :PROPERTIES:
+    :ID:       837d1c75-8d4b-470d-a265-f0cd46ec6d4f
+    :LAST_REPEAT: [2017-03-19 Sun 13:17]
+    :END:
+
+** Piers <5 Jan>
+   
+    
+** TODO Carla <29 August>					      :carla:
+   DEADLINE: <2015-08-29 Sat +1y -1m>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+    - State "DONE"       from "WAITING"    [2012-11-11 Sun 16:56]
+ + Perfume (Very irresistable)
+   However if I get her VI for birthday, not good for Xmas
+ :PROPERTIES:
+   :ID:       bad29093-226d-41f7-bd6c-884b03195791
+ :LAST_REPEAT: [2017-03-19 Sun 13:17]
+   :END:
+** TODO Peter <21 September>
+   DEADLINE: <2015-09-21 Mon +1y -1m>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+    - State "DONE"       from "WAITING"    [2012-11-11 Sun 16:57]
+   :PROPERTIES:
+   :ID:       095307d7-b88d-4b6d-8798-6e6751492388
+   :LAST_REPEAT: [2017-03-19 Sun 13:17]
+   :END:
+** TODO Dad <13 October>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+   - State "DONE"       from "IN-PROGRESS" [2013-03-18 Mon 19:05]
+   :PROPERTIES:
+   :ID:       065be581-5809-4a1e-93d5-d68d3324719f
+   :LAST_REPEAT: [2017-03-19 Sun 13:17]
+   :END:
+    DEADLINE: <2015-10-13 Tue +1y -1m>
+** TODO Mum <30 November>
+   DEADLINE: <2015-11-30 Mon +1y -1m>
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:17]
+   - State "DONE"       from "WAITING"    [2017-03-19 Sun 13:09]
+   - State "DONE"       from "IN-PROGRESS" [2013-01-25 Fri 14:14]
+   :PROPERTIES:
+   :ID:       93321d5e-7bdd-4d2d-9981-318ef0e6d17c
+   :LAST_REPEAT: [2017-03-19 Sun 13:17]
+   :END:
+   
+* Christmas
+  :PROPERTIES:
+  :ID:       2c40c635-9c08-463b-92e1-130e47a3a65e
+  :END:
+** TODO Carla
+    :PROPERTIES:
+    :ID:       0b6ebed8-08b7-4f13-968b-8d5ba0b0d182
+    :END:
+    + Perfume?
+    + Raffaello?
+    DEADLINE <2012-12-25 +1y -2m>
+** TODO Mum
+    :PROPERTIES:
+    :ID:       24bd484d-2162-4d4f-8b80-902a05782923
+    :END:
+    DEADLINE <2012-12-25 +1y -2m>
+** TODO Dad
+    :PROPERTIES:
+    :ID:       b8d18aa6-6c03-45e6-a275-5e3136eabc36
+    :END:
+    DEADLINE <2012-12-25 +1y -2m>
+** TODO Ruth and family
+    :PROPERTIES:
+    :ID:       0cfff55d-2aaa-4fa7-86f7-d05280913dab
+    :END:
+    DEADLINE <2012-12-25 +1y -2m>
+   + Ruth
+   + Matt
+   + Alex
+   + Matilda
+  
+** TODO Guy and family
+    :PROPERTIES:
+    :ID:       822cebc7-9f04-4433-9d8d-fe14ba99b367
+    :END:
+    DEADLINE <2012-12-25 +1y -2m>
++ Guy
++ Leo
++ Kian
+** TODO Peter
+    :PROPERTIES:
+    :ID:       2ec1998c-8f02-460b-a321-fd7c9f04a66f
+    :END:
+    DEADLINE <2012-12-25 +1y -2m>
+
+    

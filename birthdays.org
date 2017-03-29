@@ -1,0 +1,32 @@
+* Birthdays
+** TODO Get Carla a birthday present/presents :carla:
+   :PROPERTIES:
+   :ID:       bad29093-226d-41f7-bd6c-884b03195791
+   :END:
+** TODO Get Peter a birthday present
+   :PROPERTIES:
+   :ID:       34a70490-1399-4e89-bf49-2d729fac03c1
+   :END:
+   <2012-09-21 Fri>
+** TODO Get Dad a birthday present
+   :PROPERTIES:
+   :ID:       33d23b5c-e535-4ad7-980b-093062cac3d9
+   :END:
+   <2012-10-12 Fri>
+** TODO Get Guy a birthday present
+   :PROPERTIES:
+   :ID:       a6798654-e702-468c-a153-ded341b5ba58
+   :END:
+** Get Ruth a birthday present
+* Christmas
+** Carla
+** Mum
+** Dad
+** Ruth
++ Matt
++ Alex
++ Matilda
+** Guy
++ Leo
++ Kian
+** Peter

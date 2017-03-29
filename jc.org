@@ -1,0 +1,40 @@
+* Portfolio
+** Actual business site.
+  Gems??
+  1.0:  static, html css js site. No dynamic.
+  1.5 Add a bit of dynamic back end: users eg.
+  DB with data for the pages.
+  Contact form.
+  Security
+  SEO
+  Assisted Technologies? (Accessibility to screenreaders/colorblind...)
+  Create a RESTful API for the back end.
+  Use a routing library (express for node).
+*** Ecommerce
+  Go professional or go home.
+  eg  Magento(php).
+  Perhaps design as a show-site linking to ebay/etsy/amazon etc intially.
+  Also eg magento third party hosting.
+** A variety of pieces
+  Smartphone app?
+  Consider building eg Tom the builder a portfolio website.
+* Skills-based CV backed up by portfolio.
+** First principles.
+Lots on JS.
+** jQuery.
+** Less or sass.
+   Templating
+** Git
+   Prefix branches with jira id.
+** JIRA
+   Task tracking
+** Accessibility
+** SEO
+   Googling James Langdon gems presently returns perhaps 1 relevant reference.
+** Grunt
+** Gulp
+** Node.js
+* Accredited courses?
+* SourceTree install  
+* Chrome debugger
+* w3schools

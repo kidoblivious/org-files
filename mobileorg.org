@@ -1,0 +1,30 @@
+
+
+* Digest
+http://db.tt/AwkHfhhx
+* F(edit:body) [[olp:work.org:Taxi/First Cab costs][First Cab costs]]
+** Old value
+
+** New value
+GP07 HNV  2550
+light and CCTV 150
+data head, taximeter, stickers  fitting  350
+insurance 20% 550
+** End of edit
+
+
+* F(edit:heading) [[id:fd98360e-e916-41ce-b8b6-6c28e93bdebe][Needs to be a secured network, also I probably want to segregate it from the wider network]]
+** Old value
+Needs to be a secured network, also I probably want to segregate it from the wider network
+** New value
+Needs to be a secured network, also I probably want to segregate it from the wider network.
+Hahaha well that's done
+** End of edit
+
+* F(edit:todo) [[id:25627032-c2c5-418e-92ed-42e02c452e3c][Wifi]]
+** Old value
+TODO
+** New value
+DONE
+** End of edit
+
