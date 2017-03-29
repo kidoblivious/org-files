@@ -9,6 +9,11 @@
    :LAST_REPEAT: [2017-03-19 Sun 13:17]
    :END:
 ** Repaint internals of flat
+** TODO Finish Hammeriting the bars
+** TODO Throw the pile of wood and nails away
+** Wash exterior windows
+** Repaint the fence
+** New Door
 * Health
 ** Exercise
 ** Doctor
@@ -62,14 +67,12 @@
     :PROPERTIES:
     :ID:       e75567c3-9f78-4d5a-b6b2-640344f8d3fb
     :END:
-
 *** MOT
 *** Tax
 *** Insurance
     34.30 taken on the 14th Jan
 *** Tyre pressures
 *** Last serviced?
-    
 * Fish
 ** TODO Water Changes
    DEADLINE: <2013-03-17 Sun ++2w>
@@ -83,11 +86,3 @@
 ** Pixie list 
     + Mr Snuffleupagus
     + Sharko
-      
-* WAITING New tank?!
-   :PROPERTIES:
-   :ID:       7c4b1625-f0d2-4d16-9f78-32e441c417c1
-   :END:  
-   
-   
-   
