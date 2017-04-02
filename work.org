@@ -2,16 +2,29 @@
 ** NodeJS
 *** Gem Sales
 **** V1
+
     + Get in touch with James
-      Review other Cut Gem websites:
+      James is on board
+    + Review other Cut Gem websites:
       spectralgems
+      Pretty
+      Modern
       rockhounds
+      Old-school
+      Overwhelmed by spam
+      Shonky
     + Showcase concepts
-    + Static Gallery
-      Rotation!!!
+      Static(wrt HTML) Gallery:
+      Images in sunlight
+      Images in Artificial light
+      Rotation: small gifs     
     + Build data
+      Images
+      Image attribution
+      Gifs
+      Text
     + About page
-      James' workshop
+      James' workshop & tools
       Specialist techniques
       Certification
       Awards
