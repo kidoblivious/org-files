@@ -25,9 +25,16 @@
       Text
     + About page
       James' workshop & tools
-      Specialist techniques
+       Photos: James, tools.       
+      Specialist technique: concave cut.
       Certification
       Awards
+    + Links Page
+      (Ideas stolen from spectralgems.net)
+      Industry assocs
+      Magazines
+      Equipment suppliers
+      Trade links
     + Contact us
       Email form
 **** V2
