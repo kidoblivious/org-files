@@ -10,3 +10,52 @@
      James
       Award
   + Contact us
+
+* Gem Sales V1
+** Get in touch with James
+    James is on board
+** Review other Cut Gem websites:
+    spectralgems
+    Pretty
+    Modern
+    rockhounds
+    Old-school
+    Overwhelmed by spam
+    Shonky
+** Showcase concepts
+    Static(wrt HTML) Gallery:
+    Images in sunlight
+    Images in Artificial light
+    Rotation: small gifs     
+** Build data
+   Images
+   Image attribution
+   Gifs
+   Text
+ + About page
+   James' workshop & tools
+    Photos: James, tools.       
+   Specialist technique: concave cut.
+   Certification
+   Awards
+ + Links Page
+   (Ideas stolen from spectralgems.net)
+   Industry assocs
+   Magazines
+   Equipment suppliers
+   Trade links
+ + Contact us
+   Email form
+** V2
+  + James to be able to add new gems.
+  + Lifecycle of individual gems
+    Rough
+    Cut
+    Concave cut
+    Sale details
+  + Commissions portfolio
+     
+** V3
+   + Gem shop
+** V4
+   + Gem House
