@@ -1,40 +1,33 @@
-* index.htm
-  + Sections
-    Gallery
-     Sunlight
-     Artificial
-     Rotators
-    About
-     Workshop
-     Tools
-     James
-      Award
-  + Contact us
-
 * Gem Sales V1
 ** Get in touch with James
     James is on board
 ** Review other Cut Gem websites:
-    spectralgems
+    spectralgems.net
     Pretty
     Modern
-    rockhounds
+    rockhounds.com
     Old-school
     Overwhelmed by spam
     Shonky
-** Showcase concepts
-    Static(wrt HTML) Gallery:
+    johndyergems.com
+    Catalogue
+** Build data
+    Base page
+    Static(wrt HTML) Gallery (Catalogue):
+    Grid of thumbnails, search field, sort by field
+    Each gem given a unique identifier
+    + Letter(s) for gem type? Cut type? Concave or not? Simple UID number?
+      Needs to be putable on the back of a gem box or similar.
+    Images
+    Image attribution
+    Gifs
     Images in sunlight
     Images in Artificial light
-    Rotation: small gifs     
-** Build data
-   Images
-   Image attribution
-   Gifs
-   Text
+    Rotation: small gifs
+    Text description snippet
  + About page
    James' workshop & tools
-    Photos: James, tools.       
+   Photos: James, tools.       
    Specialist technique: concave cut.
    Certification
    Awards
@@ -48,7 +41,7 @@
    Email form
 ** V2
   + James to be able to add new gems.
-  + Lifecycle of individual gems
+  + Lifecycle of individual gems ?
     Rough
     Cut
     Concave cut
@@ -59,3 +52,32 @@
    + Gem shop
 ** V4
    + Gem House
+     
+
+
+* index.htm
+Background colour: check colour at spectralgems.net
+**  Welcome/ Landing Page
+    
+
+**  Catalogue
+*** Categories
+    Colour
+    Stone
+    Weight
+    Cost
+*** Gems in table, thumbnail format, sortable by category
+    Click on Gem for gem page with:
+    Sunlight
+    Artificial
+    Gif rotations of gems
+
+**  Links
+    Julian Stephens    
+**  About
+    Workshop
+    Tools
+    James
+    Award
+**  Contact us
+    
