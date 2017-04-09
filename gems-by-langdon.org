@@ -12,25 +12,24 @@
     johndyergems.com
     Catalogue
 ** Build data
-    Base page
-    Static(wrt HTML) Gallery (Catalogue):
-    Grid of thumbnails, search field, sort by field
-    Each gem given a unique identifier
-    + Letter(s) for gem type? Cut type? Concave or not? Simple UID number?
-      Needs to be putable on the back of a gem box or similar.
-    Images
-    Image attribution
-    Gifs
-    Images in sunlight
-    Images in Artificial light
-    Rotation: small gifs
-    Text description snippet
+ + Base page
+   + Static(wrt HTML) Gallery (Catalogue):
+     Grid of thumbnails, search field, sort by field, how many on page field
+      + For each gem page:
+        Unique identifier
+        Letter(s) for gem type? Cut type? Concave or not? Simple UID number?
+        Needs to be putable on the back of a gem box or similar (printable onto tiny sticker?).
+        Images (Image attribution (bottom of page?)
+        Images in sunlight
+        Images in Artificial light
+        Rotation: small gifs
+        Text description snippet
  + About page
-   James' workshop & tools
-   Photos: James, tools.       
-   Specialist technique: concave cut.
-   Certification
-   Awards
+   + James' workshop & tools
+     Photos: James, tools.
+     Specialist technique: concave cut.
+     Certification
+     Awards
  + Links Page
    (Ideas stolen from spectralgems.net)
    Industry assocs
@@ -40,7 +39,7 @@
  + Contact us
    Email form
 ** V2
-  + James to be able to add new gems.
+  + James(/others) to be able to add new gems.
   + Lifecycle of individual gems ?
     Rough
     Cut
